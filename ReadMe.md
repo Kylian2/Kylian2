@@ -3,7 +3,9 @@ Hello, I'm Kylian. <br>I'm currently studying at the Orsay's I.U.T - Paris-Sacla
 
 💻 I'm working on a side projet "Cuistop" - [cuistop.com](https://cuistop.com) which is basically a food planner, to help my family planning our weekly meal.
 
-🔍 Currently I'm looking for an internship, in software development. The best would be in a english speaking country because I would like to improve my english.<br>🛟 During my week-ends, I'm also a lifeguard at my local swimming pool. 
+🔍 Currently I'm looking for an internship, in software development. The best would be in a english speaking country because I would like to improve my english.
+
+🛟 During my week-ends, I'm also a lifeguard at my local swimming pool. 
 
 🏊‍♂️ I practice swimming for a long time now and recently cycling. 
 
