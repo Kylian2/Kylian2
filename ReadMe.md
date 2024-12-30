@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I'm Kylian. <br>I'm currently studying at the Orsay's I.U.T - Paris-Saclay University and I hope to get an engineer degree in the next few years.
 
-💻 I'm working on a side projet "Cuistop" - which is basically a food planner, to help my family planning our weekly meal.
+💻 I'm working on "VoteRight," a participatory democracy application that enables groups to process, discuss, and vote on proposals. It manages these proposals based on allocated budgets at the proposal level, thematic level, and for the entire group. Additionally, it will incorporates satisfaction recommendation algorithms.
 
 🔍 Currently I'm looking for an internship, in software development. The best would be in a english speaking country because I would like to improve my english.
 
