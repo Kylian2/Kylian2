@@ -3,8 +3,6 @@ Hello, I'm Kylian. <br>I'm currently studying at the Orsay's I.U.T - Paris-Sacla
 
 💻 I'm working on "VoteRight," a participatory democracy application that enables groups to process, discuss, and vote on proposals. It manages these proposals based on allocated budgets at the proposal level, thematic level, and for the entire group. Additionally, it will incorporates satisfaction recommendation algorithms.
 
-🔍 Currently I'm looking for an internship, in software development. The best would be in a english speaking country because I would like to improve my english.
-
 🛟 During my week-ends, I'm also a lifeguard at my local swimming pool. 
 
 🏊‍♂️ I practice swimming for a long time now and recently cycling. 
